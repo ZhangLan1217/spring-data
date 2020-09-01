@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    username: root
+    password: abcd2019
+    url: jdbc:mysql://139.155.235.169:3036/test
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+
+logging:
+  level: com.example.springdata1.mapper = debug
